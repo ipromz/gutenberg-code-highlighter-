@@ -1,0 +1,9 @@
+.gch_ta {
+    width: 100%;
+    min-height: 200px;
+}
+
+code.gch_code {
+    padding: 16px;
+    border-radius: 5px;
+}
