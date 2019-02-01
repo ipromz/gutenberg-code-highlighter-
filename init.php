@@ -1,6 +1,11 @@
 <?php 
 /*
 Plugin Name: Code Highlighter Block
+Plugin URI: https://github.com/ipromz/gutenberg-code-highlighter-/
+Description: Gutenberg block for code highlighting 
+Version: 0.9
+Author: Pramod JOdhani
+Author URI: http://pramodjodhani.com
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
